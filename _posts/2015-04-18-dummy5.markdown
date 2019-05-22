@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Dummy Post 5"
-date:   2015-04-18 08:43:59
+title:  "Git push test"
+date:   2019-05-18 08:43:59
 author: Ben Centra
 categories: Dummy
-tags: lorem
+tags: git
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
